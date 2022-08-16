@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
  pragma solidity ^0.8.4;
 
-//define the contract
+//define the contract for mood Diary
  contract MoodDiary{
 
      //create a variable called mood
